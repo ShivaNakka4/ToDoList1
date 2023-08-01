@@ -496,3 +496,60 @@ body {
         padding: 20px;
     }
 }
+/* Styling a few more add on buttons */
+.my-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.canvas {
+    height: 40px;
+    font-size: 1rem;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    color: var(--primary-clr);
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0px 5px;
+    border: 1px solid #878895;
+}
+.canvas:hover {
+    color: var(--primary-clr);
+    background-color: transparent;
+}
+.gmail {
+    height: 40px;
+    font-size: 1rem;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    color: var(--primary-clr);
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0px 5px;
+    border: 1px solid #878895;
+}
+.gmail:hover {
+    color: var(--primary-clr);
+    background-color: transparent;
+}
+.chatGPT {
+    height: 40px;
+    font-size: 1rem;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    color: var(--primary-clr);
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0px 5px;
+    border: 1px solid #878895;
+}
+.chatGPT:hover {
+    color: var(--primary-clr);
+    background-color: transparent;
+}
